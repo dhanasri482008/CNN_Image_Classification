@@ -1,5 +1,5 @@
-streamlit==1.45.1
-tensorflow-cpu==2.18.0
+gradio==5.34.2
+tensorflow==2.18.0
 numpy
 pillow
 matplotlib
