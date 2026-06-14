@@ -1,5 +1,4 @@
 gradio==5.34.2
-tensorflow==2.18.0
+tensorflow
 numpy
-pillow
-matplotlib
+Pillow
